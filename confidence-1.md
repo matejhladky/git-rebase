@@ -1,1 +1,3 @@
-confidence 1 1
+confidence 1
+
+confidence 3
